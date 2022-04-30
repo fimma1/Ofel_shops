@@ -1,0 +1,28 @@
+{
+  "name": "ofelshops",
+  "version": "1.0.0",
+  "description": "An Ecommerce site for Phones and Accessories ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fimma1/Ofel_shops.git"
+  },
+  "keywords": [
+    "ofelshops"
+  ],
+  "author": "Emmanuel Forson Owusu - Lord Ofel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fimma1/Ofel_shops/issues"
+  },
+  "homepage": "https://github.com/fimma1/Ofel_shops#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
